@@ -1,4 +1,4 @@
-package com.qvalon.expandabletextviewsample
+package com.belovol.expandabletextviewsample
 
 import org.junit.Test
 

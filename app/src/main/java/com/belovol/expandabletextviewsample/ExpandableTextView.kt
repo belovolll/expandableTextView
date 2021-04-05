@@ -1,4 +1,4 @@
-package com.qvalon.expandabletextviewsample
+package com.belovol.expandabletextviewsample
 
 import android.content.Context
 import android.graphics.Canvas
